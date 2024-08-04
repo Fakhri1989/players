@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="demo">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Release 3.46.0.1 source code/xerial-sqlite-jdbc-c228bd3/demo" />
+      <root url="file://$PROJECT_DIR$/../../Release 3.46.0.1 source code/xerial-sqlite-jdbc-c228bd3/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Release 3.46.0.1 source code/xerial-sqlite-jdbc-c228bd3/src/main/java9" />
+      <root url="file://$PROJECT_DIR$/../../Release 3.46.0.1 source code/xerial-sqlite-jdbc-c228bd3/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
